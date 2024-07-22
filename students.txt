@@ -1,2 +1,3 @@
 #list of the students who attended the meeting
 #check the student roll numbers according to the height
+#new people will be added now in the class
